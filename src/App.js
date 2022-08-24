@@ -12,6 +12,7 @@ import styles from "./App.module.css";
 import { fetchData } from './api'
 
 import coronaImage from './images/covid19.jpg'
+import { red } from '@material-ui/core/colors';
 class App extends React.Component {
   state = {
     data: {},

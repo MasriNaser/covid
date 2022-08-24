@@ -40,7 +40,7 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
               />
             </Typography>
             <Typography color="textSecondary">{new Date(lastUpdate).toDateString()}</Typography>
-            <Typography variant="body2">Number of recoveries of COVID-19</Typography>
+            <Typography variant="body2">There is no value for recoveries</Typography>
           </CardContent>
         </Grid>
         {/* third card */}

@@ -1,5 +1,5 @@
 {
-  "homepage":"http://MasriNaser.github.io/covid",
+  "homepage": "http://MasriNaser.github.io/covid",
   "name": "covid_19",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "react-chartjs-2": "^2.9.0",
     "react-countup": "^4.3.3",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^3.4.1"
   },
   "scripts": {
     "predeploy": "npm run build",
